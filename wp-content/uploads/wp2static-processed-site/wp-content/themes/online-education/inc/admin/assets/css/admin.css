@@ -1,0 +1,245 @@
+.appearance_page_online-education-options .wrap {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.appearance_page_online-education-options #wpcontent {
+	padding: 0;
+}
+
+.appearance_page_online-education-options #wpbody-content .metabox-holder {
+	padding: 0;
+}
+
+.ole-container {
+	max-width: 1150px;
+	margin: 0 auto;
+	padding: 0 20px;
+	box-sizing: border-box;
+}
+
+.ole-container a {
+	text-decoration: none;
+	font-size: 13px;
+}
+
+.ole-container ul {
+	margin: 0;
+	padding: 0;
+}
+
+.ole-container .postbox {
+	box-shadow: 0 0 0 1px rgba(200, 215, 225, 0.5), 0 1px 2px #DDD;
+	border: 0;
+	min-width: initial;
+	margin-bottom: 40px;
+}
+
+.ole-container .postbox .hndle {
+	cursor: inherit;
+	border-bottom: 1px solid #ccd0d4;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+.ole-container .postbox .hndle .dashicons {
+	padding-right: 5px;
+}
+
+.ole-header {
+	background-color: #fff;
+	text-align: center;
+	box-shadow: 0 1px 0 rgba(200, 215, 225, 0.5), 0 1px 2px #DDD;
+	margin-bottom: 40px;
+	padding: 20px;
+}
+
+.ole-header > .ole-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.ole-header .ole-title {
+	display: flex;
+	align-items: center;
+}
+
+.ole-header .ole-title + div {
+	float: right;
+	align-items: center;
+}
+
+.ole-header .ole-title + div a {
+	display: inline-block;
+	margin: 0 10px;
+	vertical-align: middle;
+}
+
+.ole-version {
+	color: #000;
+	margin-left: 5px;
+	background: #efefef;
+	padding: 1px 3px;
+}
+
+.ole-quick-settings-section > ul {
+	padding: 32px;
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	grid-gap: 24px;
+}
+
+.ole-quick-settings-section > ul li {
+	margin: 0;
+}
+
+.ole-quick-settings-section > ul li a {
+	display: grid;
+	place-items: center;
+	padding: 20px 0;
+	border: 1px solid #e7e7e9;
+}
+
+.ole-quick-settings-section > ul li a span {
+	font-size: 30px;
+	width: 30px;
+	height: 30px;
+}
+
+.ole-quick-settings-section > ul li a h4 {
+	color: #000;
+	font-weight: 400;
+	font-size: 14px;
+	margin-bottom: 0;
+}
+
+.col-70 .postbox .hndle {
+	padding-left: 32px;
+}
+
+@media (min-width: 768px) {
+	.col-70 {
+		float: left;
+		width: 70%;
+		box-sizing: border-box;
+		padding-right: 20px;
+	}
+	.col-30 {
+		float: left;
+		width: 30%;
+		box-sizing: border-box;
+		padding-left: 20px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.ole-header {
+		margin: 20px;
+	}
+	.ole-header > .ole-container {
+		display: block;
+	}
+	.ole-header .ole-title {
+		justify-content: center;
+	}
+	.ole-header .ole-title + div {
+		float: none;
+	}
+}
+
+.online-education-notice {
+	position: relative;
+	padding: 8px 40px 8px 8px;
+}
+
+.online-education-notice .links {
+	margin: 1.2em 0;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.online-education-notice .links a {
+	margin-right: 10px;
+}
+
+.online-education-notice .links a > span {
+	vertical-align: middle;
+	padding-right: 5px;
+}
+
+.online-education-notice .notice-text .coupon-code {
+	display: inline-block;
+}
+
+.online-education-notice .notice-dismiss {
+	text-decoration: none;
+}
+
+.online-education-message__content {
+	display: flex;
+}
+
+.online-education-message__content .online-education-message__image {
+	display: flex;
+	flex: 0 0 160px;
+	min-height: 100px;
+	margin-right: 12px;
+	border-right: 1px solid #FCFCFD;
+}
+
+.online-education-message__content .online-education-message__image .online-education-screenshot {
+	width: 100%;
+	box-shadow: 0 0 1px 0 #ccd0d4;
+	border: 1px solid #dddddd;
+}
+
+.online-education-message__content .online-education-message__heading {
+	margin-top: 0;
+	margin-bottom: 12px;
+	line-height: 1.4;
+}
+
+.online-education-message__content .online-education-message__heading > a {
+	font-size: inherit;
+}
+
+.online-education-message__content .online-education-message__cta {
+	display: flex;
+	align-items: center;
+}
+
+.online-education-message__content .online-education-message__cta .plugin-install-notice {
+	margin-left: 15px;
+	line-height: 1.4;
+}
+
+.online-education-message__content .online-education-message__cta a:before {
+	margin: 5px;
+	vertical-align: middle;
+}
+
+a.online-education-message-close {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 10px 15px 10px 21px;
+	font-size: 13px;
+	line-height: 1.23076923;
+	text-decoration: none;
+}
+
+a.online-education-message-close:before {
+	position: absolute;
+	top: 8px;
+	left: 0;
+	-webkit-transition: all .1s ease-in-out;
+	transition: all .1s ease-in-out;
+}
+
+@media screen and (max-width: 768px) {
+	.online-education-message__content .online-education-message__image {
+		display: none;
+	}
+}

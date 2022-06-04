@@ -1,0 +1,1387 @@
+# Copyright (C) 2022 ThemeGrill
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Online Education 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/online-education\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-01-26T10:48:48+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: online-education\n"
+
+#. Theme Name of the theme
+#: inc/admin/class-online-education-welcome-notice.php:51
+msgid "Online Education"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://themegrill.com/themes/online-education/"
+msgstr ""
+
+#. Description of the theme
+msgid "Online Education is a free WordPress eLearning or LMS theme. This theme is fully compatible with Masteriyo Learning Management System plugin. With Online Eduction theme and Masteriyo combined you can create online courses and sell them easily. Online Education is lightweight yet very powerful and comes with lots of features backed by free support. This theme is Gutenberg ready and compatible with other major page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Checkout the live demo at https://themegrilldemos.com/online-education/."
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeGrill"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:26
+msgid "Try searching or go back to Home"
+msgstr ""
+
+#: 404.php:31
+msgid "Go back to Home"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:39
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:45
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:58
+msgid "Primary"
+msgstr ""
+
+#: functions.php:59
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:120
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:33
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:48
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:122
+msgid "Widgets added here will appear on the right sidebar of the page."
+msgstr ""
+
+#. translators: 1: Footer column number.
+#: functions.php:135
+msgid "Footer Column %1$d"
+msgstr ""
+
+#. translators: 1: Footer column number.
+#: functions.php:141
+msgid "Widgets added here will appear inside %1$d of footer"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/class-online-education-admin.php:52
+msgid "Processing..."
+msgstr ""
+
+#: inc/admin/class-online-education-admin.php:54
+msgid "Activating..."
+msgstr ""
+
+#: inc/admin/class-online-education-admin.php:55
+msgid "Redirecting..."
+msgstr ""
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-online-education-dashboard.php:72
+msgid "%s Options"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:95
+msgid "Install ThemeGrill Demo Importer Plugin"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:97
+msgid "Activate ThemeGrill Demo Importer Plugin"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:98
+msgid "Demo Library"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:102
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:107
+msgid "Set Color"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:112
+msgid "Header Options"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:117
+msgid "Blog Options"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:122
+msgid "Footer Options"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:147
+msgid "Quick customize settings"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:164
+msgid "Starter Demo"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:166
+msgid "You do not need to build your store from scratch, Online Education provides a starter demo site."
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:167
+msgid "Import demo site and start editing as you like."
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:171
+#: inc/admin/class-online-education-welcome-notice.php:70
+msgid "themegrill-demo-importer"
+msgstr ""
+
+#: inc/admin/class-online-education-dashboard.php:172
+#: inc/admin/class-online-education-welcome-notice.php:71
+#: inc/admin/class-online-education-welcome-notice.php:73
+msgid "Get started with Online Education"
+msgstr ""
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link ending html tag.
+#: inc/admin/class-online-education-welcome-notice.php:59
+msgid "Welcome! Thank you for choosing Online Education! To fully take advantage of the best our theme can offer, please make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: inc/admin/class-online-education-welcome-notice.php:75
+msgid "Clicking the button will install and activate the ThemeGrill demo importer plugin."
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:287
+msgid "Browse:"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:288
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:289
+msgid "Home"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:290
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:291
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: inc/class-online-education-breadcrumb-trail.php:293
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/class-online-education-breadcrumb-trail.php:295
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: inc/class-online-education-breadcrumb-trail.php:297
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/class-online-education-breadcrumb-trail.php:299
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/class-online-education-breadcrumb-trail.php:301
+msgid "Week %s"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:718
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:734
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:750
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:765
+#: inc/class-online-education-breadcrumb-trail.php:792
+#: inc/class-online-education-breadcrumb-trail.php:829
+#: inc/class-online-education-breadcrumb-trail.php:854
+#: inc/class-online-education-breadcrumb-trail.php:1185
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:766
+#: inc/class-online-education-breadcrumb-trail.php:830
+#: inc/class-online-education-breadcrumb-trail.php:1187
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:767
+#: inc/class-online-education-breadcrumb-trail.php:1189
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/class-online-education-breadcrumb-trail.php:793
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:39
+msgid "Global"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:46
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:53
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:129
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:41
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:86
+#: inc/customizer/options/masteriyo/class-online-education-customize-masteriyo-courses-archive-options.php:42
+#: inc/customizer/options/masteriyo/class-online-education-customize-masteriyo-single-course-options.php:42
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:60
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:71
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:88
+#: inc/customizer/options/footer/class-online-education-customize-footer-column-options.php:63
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:144
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:80
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:99
+#: inc/customizer/options/header/class-online-education-customize-site-identity-options.php:63
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:82
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:90
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:98
+#: inc/meta-box/class-online-education-meta-boxes.php:30
+msgid "Content Style"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:109
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:117
+msgid "General"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:125
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:133
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:141
+msgid "Header Button"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:149
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:42
+#: inc/customizer/options/masteriyo/class-online-education-customize-masteriyo-courses-archive-options.php:43
+#: inc/customizer/options/masteriyo/class-online-education-customize-masteriyo-single-course-options.php:43
+msgid "Page Header"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:160
+msgid "Blog/Archive"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:172
+#: inc/customizer/options/global/class-online-education-customize-content-style-options.php:80
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:80
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:184
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:193
+msgid "Footer Column"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:201
+msgid "Footer Bar"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:209
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:228
+msgid "Masteriyo"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:235
+msgid "Courses Archive"
+msgstr ""
+
+#: inc/customizer/class-online-education-customizer-register-section-panel.php:243
+msgid "Single Course"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:164
+msgid "Thin 100"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:165
+msgid "Thin 100 Italic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:166
+msgid "Extra-Light 200"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:167
+msgid "Extra-Light 200 Italic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:168
+msgid "Light 300"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:169
+msgid "Light 300 Italic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:170
+msgid "Regular 400"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:171
+msgid "Regular 400 Italic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:172
+msgid "Medium 500"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:173
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:174
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:175
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:176
+msgid "Bold 700"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:177
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:178
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:179
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:180
+msgid "Black 900"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:181
+msgid "Black 900 Italic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:200
+msgid "Arabic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:201
+msgid "Bengali"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:202
+msgid "Chinese (Hong Kong)"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:203
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:204
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:205
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:206
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:207
+msgid "Devanagari"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:208
+msgid "Greek"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:209
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:210
+msgid "Gujarati"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:211
+msgid "Gurmukhi"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:212
+msgid "Hebrew"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:213
+msgid "Japanese"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:214
+msgid "Kannada"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:215
+msgid "Khmer"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:216
+msgid "Korean"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:217
+msgid "Latin"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:218
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:219
+msgid "Malayalam"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:220
+msgid "Myanmar"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:221
+msgid "Oriya"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:222
+msgid "Sinhala"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:223
+msgid "Tamil"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:224
+msgid "Telugu"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:225
+msgid "Thai"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:226
+msgid "Tibetan"
+msgstr ""
+
+#: inc/customizer/core/class-online-education-fonts.php:227
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:41
+msgid "No file selected"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:93
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:97
+#: inc/customizer/options/header/class-online-education-customize-general-header-options.php:85
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:142
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:104
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:110
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:117
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:124
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:131
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:135
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:138
+msgid "Repeat All"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:141
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:144
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:149
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:153
+msgid "Left Top"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:156
+msgid "Left Center"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:159
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:162
+msgid "Right Top"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:165
+msgid "Right Center"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:168
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:171
+msgid "Center Top"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:174
+msgid "Center Center"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:177
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:182
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:186
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:189
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:192
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:197
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:201
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/background/class-online-education-background-control.php:204
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/color/class-online-education-color-control.php:46
+msgid "Clear"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/color/class-online-education-color-control.php:47
+msgid "Clear color"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/color/class-online-education-color-control.php:48
+#: inc/customizer/options/global/class-online-education-customize-content-style-options.php:32
+#: inc/customizer/options/global/class-online-education-customize-content-style-options.php:44
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:32
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:44
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/color/class-online-education-color-control.php:49
+msgid "Select default color"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/color/class-online-education-color-control.php:50
+msgid "Select Color"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/color/class-online-education-color-control.php:51
+msgid "Color value"
+msgstr ""
+
+#. Translators: %1$s: Anchor tag open, %2$s: Customizer section name %3$s: Anchor tag close
+#: inc/customizer/core/custom-controls/navigate/class-online-education-navigate-control.php:61
+msgid "%1$s Click here to edit %2$s features %3$s"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/slider/class-online-education-slider-control.php:109
+msgid "Back to default"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:49
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:50
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:57
+msgid "Custom Fonts"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:273
+msgid "Family"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:281
+msgid "Weight"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:290
+msgid "Subset(s)"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:305
+msgid "Size"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:397
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:489
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:581
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:586
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:174
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:220
+#: inc/customizer/options/global/class-online-education-customize-content-style-options.php:34
+#: inc/customizer/options/global/class-online-education-customize-content-style-options.php:49
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:100
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:131
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:58
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:110
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:170
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:212
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:292
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:202
+#: inc/customizer/options/header/class-online-education-customize-site-identity-options.php:84
+#: inc/meta-box/class-online-education-meta-boxes.php:35
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:589
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:592
+msgid "Oblique"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:595
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:623
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:651
+msgid "Initial"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:598
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:626
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:654
+msgid "Inherit"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:606
+msgid "Transform"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:611
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:639
+msgid "None"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:614
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:617
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:620
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:634
+msgid "Decoration"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:642
+msgid "Underline"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:645
+msgid "Overline"
+msgstr ""
+
+#: inc/customizer/core/custom-controls/typography/class-online-education-typography-control.php:648
+msgid "Line Through"
+msgstr ""
+
+#. Translators: 1: Panel Title.
+#: inc/customizer/core/extend-customizer/class-online-education-wp-customize-section.php:68
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: inc/customizer/core/extend-customizer/class-online-education-wp-customize-section.php:72
+msgid "Customizing"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:38
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:47
+msgid "Column"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:51
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:163
+msgid "1"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:52
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:164
+msgid "2"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:53
+msgid "3"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:54
+msgid "4"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:62
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:50
+msgid "Post"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:72
+msgid "Featured Image Size"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:83
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:60
+msgid "Featured Image Ratio"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:87
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:64
+msgid "Original"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:88
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:65
+msgid "4:3"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:97
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:104
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:130
+#: template-parts/entry/entry-footer.php:14
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:107
+msgid "CTA Text"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:123
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:80
+msgid "Post Elements"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:126
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:83
+msgid "Featured Image"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:127
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:84
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:37
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:134
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:128
+msgid "Meta Tags"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:151
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:85
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:103
+msgid "Meta"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:154
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:120
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:155
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:121
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:156
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:122
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:157
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:123
+msgid "Comment"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:194
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-blog-options.php:204
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:150
+#: inc/customizer/options/footer/class-online-education-customize-footer-column-options.php:122
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:37
+#: inc/customizer/options/header/class-online-education-customize-general-header-options.php:47
+#: inc/customizer/options/header/class-online-education-customize-general-header-options.php:66
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:47
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:66
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:37
+#: inc/customizer/options/masteriyo/class-online-education-customize-masteriyo-courses-archive-options.php:38
+#: inc/customizer/options/masteriyo/class-online-education-customize-masteriyo-single-course-options.php:38
+msgid "Title Position"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:87
+msgid "Author Bio"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:124
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:140
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/options/content/class-online-education-customize-single-post-options.php:160
+msgid "Columns"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:37
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:38
+msgid "Available Placeholders: {copyright} {site-title} {year} {theme-credit}"
+msgstr ""
+
+#. translators: 1: Copyright, 2: Site title, 3: Current year, 4: Theme credit
+#. translators: 1: Copyright, 2: Site title, 3: Current year, 4: Theme credit
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:46
+#: inc/structure/footer.php:159
+msgid "%1$s %2$s %3$s | %4$s"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:66
+msgid "Alignment"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:76
+#: inc/customizer/options/masteriyo/class-online-education-customize-masteriyo-single-course-options.php:57
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:77
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:78
+#: inc/customizer/options/masteriyo/class-online-education-customize-masteriyo-single-course-options.php:56
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:106
+#: inc/customizer/options/footer/class-online-education-customize-footer-column-options.php:83
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-bar-options.php:115
+#: inc/customizer/options/footer/class-online-education-customize-footer-column-options.php:93
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-column-options.php:37
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:158
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:120
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:254
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:108
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-column-options.php:73
+msgid "Heading Color"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-column-options.php:103
+msgid "List Link Color"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-column-options.php:112
+msgid "List Separator"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-footer-column-options.php:132
+#: inc/customizer/options/header/class-online-education-customize-general-header-options.php:75
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:47
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:99
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:160
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:201
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:263
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:281
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:46
+msgid "Dimension"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:62
+msgid "Width"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:83
+msgid "Height"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:104
+msgid "Roundness"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:125
+msgid "Icon Size"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:190
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:236
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:111
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:142
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:69
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:121
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:181
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:223
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:303
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:213
+#: inc/customizer/options/header/class-online-education-customize-site-identity-options.php:95
+msgid "Hover"
+msgstr ""
+
+#: inc/customizer/options/footer/class-online-education-customize-scroll-to-top-options.php:204
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-colors-options.php:37
+msgid "Primary Colors"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-colors-options.php:47
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-colors-options.php:57
+msgid "Base Color"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-colors-options.php:66
+#: inc/customizer/options/global/class-online-education-customize-colors-options.php:76
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-container-options.php:39
+msgid "Container Width"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-container-options.php:55
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-content-style-options.php:33
+#: inc/customizer/options/global/class-online-education-customize-content-style-options.php:48
+#: inc/meta-box/class-online-education-meta-boxes.php:34
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-content-style-options.php:58
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:58
+msgid "Archive"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-content-style-options.php:69
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:69
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:34
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:49
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/options/global/class-online-education-customize-sidebar-layout-options.php:96
+msgid "Masteriyo Courses Archive"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-general-header-options.php:37
+#: inc/meta-box/class-online-education-meta-boxes.php:41
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-general-header-options.php:56
+#: inc/template-functions.php:258
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:38
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:48
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:89
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:153
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:58
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:191
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:62
+msgid "https://example.com"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-header-button-options.php:71
+msgid "Open Link in a New Tab"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:37
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:191
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:80
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:132
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:234
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:245
+msgid "Active"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:89
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:151
+msgid "Hamburger Icon"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-menu-options.php:272
+msgid "Close Icon"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:56
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:75
+msgid "Dimensions"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:90
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-page-header-options.php:172
+msgid "Separator"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-site-identity-options.php:37
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-site-identity-options.php:38
+msgid "Upload 2X times the size of your current logo. Eg: If your current logo size is 115*50 then upload 230*100 sized logo."
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-site-identity-options.php:49
+msgid "Logo Height"
+msgstr ""
+
+#: inc/customizer/options/header/class-online-education-customize-site-identity-options.php:73
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/options/masteriyo/class-online-education-customize-masteriyo-single-course-options.php:52
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/meta-box/class-online-education-meta-boxes.php:33
+msgid "From customizer"
+msgstr ""
+
+#: inc/meta-box/class-online-education-process-meta-box.php:64
+msgid "Options"
+msgstr ""
+
+#: inc/structure/content.php:177
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/structure/footer.php:169
+msgid "Online Education -  Complete Package for Your eLearning Site."
+msgstr ""
+
+#: inc/structure/footer.php:170
+msgid "Built with Online Education by ThemeGrill"
+msgstr ""
+
+#: inc/template-functions.php:257
+msgid "Search for:"
+msgstr ""
+
+#. translators: %s: author.
+#: inc/template-tags.php:43
+msgid "Author: %s"
+msgstr ""
+
+#. translators: %s: day
+#: inc/template-tags.php:56
+msgid "Day: %s"
+msgstr ""
+
+#. translators: %s: month
+#: inc/template-tags.php:60
+msgid "Month: %s"
+msgstr ""
+
+#. translators: %s: year.
+#: inc/template-tags.php:64
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/template-tags.php:73
+msgid "Search Results"
+msgstr ""
+
+#: inc/template-tags.php:142
+msgid "Posted by"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:213
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:300
+msgid "Previous page"
+msgstr ""
+
+#: inc/template-tags.php:301
+msgid "Next page"
+msgstr ""
+
+#: inc/template-tags.php:332
+msgid "Load More"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Gutenberg Block / Page Builder (Online Education)"
+msgstr ""
+
+#: searchform.php:17
+#: searchform.php:18
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:18
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:29
+msgid "Click here to add widgets for this area"
+msgstr ""
+
+#: template-parts/content/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:27
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/content-page.php:32
+#: template-parts/entry/entry-meta.php:62
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/entry/entry-content.php:22
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/entry/entry-content.php:38
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/entry/entry-post-navigation.php:16
+msgid "Post navigation"
+msgstr ""
+
+#: template-parts/entry/entry-post-navigation.php:28
+msgctxt "Previous post link"
+msgid "Previous"
+msgstr ""
+
+#: template-parts/entry/entry-post-navigation.php:41
+msgctxt "Next post link"
+msgid "Next"
+msgstr ""
